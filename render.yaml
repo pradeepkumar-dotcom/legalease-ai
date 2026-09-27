@@ -1,0 +1,36 @@
+services:
+  - type: web
+    name: legalease-backend
+    env: python
+    region: oregon
+    plan: free
+    buildCommand: "pip install -r requirements.txt && python setup_assets.py"
+    startCommand: "uvicorn legalEaseAPI.main:app --host 0.0.0.0 --port $PORT"
+    healthCheckPath: /
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.8
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: GEMINI_MODEL
+        value: gemini-1.5-pro-latest
+      - key: ENVIRONMENT
+        value: production
+
+  - type: web
+    name: legalease-frontend
+    env: python
+    region: oregon
+    plan: free
+    buildCommand: "pip install -r requirements.txt && python setup_assets.py"
+    startCommand: "streamlit run frontend/app.py --server.port $PORT --server.address 0.0.0.0"
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.8
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: BACKEND_URL
+        fromService:
+          type: web
+          name: legalease-backend
+          property: host

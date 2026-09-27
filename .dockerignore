@@ -1,0 +1,19 @@
+# Docker Ignore File
+.git
+.gitignore
+.env
+.env.*
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+.DS_Store
+Thumbs.db
+output_samples/
+*.log

@@ -1,0 +1,38 @@
+EXECUTIVE EMPLOYMENT AGREEMENT
+
+THIS EMPLOYMENT AGREEMENT (the "Agreement") is made and entered into this November 1, 2026, by and between:
+
+- Apex Software Solutions Pvt Ltd ("Employer" or "Company"), and
+- Alex Morgan ("Employee").
+
+---
+
+1. POSITION AND DUTIES
+The Employer hereby employs the Employee in the position of Lead AI Engineer. The Employee shall faithfully and diligently perform all duties customary to such role and follow lawful directives of the Company.
+
+2. COMPENSATION AND BENEFITS
+- Base Salary: The Company shall pay Employee a base salary of $140,000 USD paid monthly, payable in accordance with the Company's standard payroll schedule.
+- Benefits: Employee shall be eligible for participation in standard medical, dental, retirement, and paid leave benefits.
+
+3. CONFIDENTIALITY AND INTELLECTUAL PROPERTY
+- (a) Proprietary Information: Employee agrees not to disclose or use any trade secrets, customer records, or proprietary software belonging to Company.
+- (b) Work for Hire: All inventions, code, designs, and works of authorship created by Employee during the course of employment shall be deemed "works made for hire" and remain the sole property of Company.
+
+4. NON-SOLICITATION AND RESTRICTIVE COVENANTS
+During the employment term and for a period of twelve (12) months following termination, Employee shall not directly or indirectly solicit any clients, employees, or contractors of Employer.
+
+5. TERMINATION
+Either party may terminate this agreement at-will upon providing 30 days prior written notice, or immediately for Cause (including fraud, gross negligence, or criminal conviction).
+
+6. GOVERNING LAW
+This Agreement shall be governed by, and interpreted in accordance with, the laws of State of California, USA.
+
+---
+
+SIGNATURES
+
+| EMPLOYER: Apex Software Solutions Pvt Ltd | EMPLOYEE: Alex Morgan |
+| :--- | :--- |
+| By: ___________________________ | By: ___________________________ |
+| Title: Authorized Signatory | Title: Employee |
+| Date: November 1, 2026 | Date: November 1, 2026 |

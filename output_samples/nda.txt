@@ -1,0 +1,62 @@
+MUTUAL NON-DISCLOSURE AND CONFIDENTIALITY AGREEMENT
+
+THIS MUTUAL NON-DISCLOSURE AGREEMENT (the "Agreement") is entered into as of October 15, 2026 (the "Effective Date"), by and between:
+
+- NovaTech Labs, having its principal place of business at [Address of NovaTech Labs] ("Disclosing Party"), and
+- John Doe, having its principal place of business at [Address of John Doe] ("Receiving Party").
+
+Disclosing Party and Receiving Party are collectively referred to as the "Parties" or individually as a "Party".
+
+---
+
+RECITALS
+WHEREAS, the Parties wish to explore and engage in discussions regarding a potential business relationship or transaction (the "Purpose"); and  
+WHEREAS, in connection with such discussions, each Party may disclose to the other certain proprietary and non-public information;
+
+NOW, THEREFORE, in consideration of the mutual promises and covenants herein contained, the Parties agree as follows:
+
+---
+
+1. DEFINITION OF CONFIDENTIAL INFORMATION
+"Confidential Information" refers to any proprietary information, technical data, trade secrets, know-how, software code, product plans, customer lists, business strategies, and financial records disclosed by one Party to the other, whether orally, electronically, or in writing, designated as confidential or which reasonably should be understood to be confidential.
+
+2. EXCLUSIONS FROM CONFIDENTIALITY
+Confidential Information does not include information that:
+- (a) Is or becomes publicly known through no breach of this Agreement;
+- (b) Was already in the rightful possession of the Receiving Party prior to disclosure;
+- (c) Is independently developed by the Receiving Party without reference to or reliance upon the Disclosing Party's information; or
+- (d) Is rightfully received from a third party without duty of confidentiality.
+
+3. OBLIGATIONS OF RECEIVING PARTY
+The Receiving Party agrees to:
+- (a) Hold the Disclosing Party’s Confidential Information in strict confidence using at least the same degree of care it uses for its own sensitive data, but no less than reasonable care;
+- (b) Restrict disclosure solely to employees, officers, and legal/financial advisors with a legitimate need-to-know who are bound by confidentiality obligations at least as restrictive as those herein;
+- (c) Not use the Confidential Information for any purpose other than the defined Purpose without prior written authorization.
+
+4. TERM AND SURVIVAL
+This Agreement shall govern disclosures for a period of two (2) years from the Effective Date. The duty of confidentiality regarding trade secrets shall survive perpetually, and for all other information, for three (3) years following expiration or termination.
+
+5. RETURN OR DESTRUCTION OF MATERIALS
+Upon written request by the Disclosing Party, the Receiving Party shall promptly return or certify the permanent destruction of all copies, extracts, and summaries of Confidential Information.
+
+6. REMEDIES AND INJUNCTIVE RELIEF
+The Parties acknowledge that any breach of this Agreement may cause irreparable harm for which monetary damages alone would be inadequate. Accordingly, the Disclosing Party shall be entitled to seek injunctive relief in addition to all other remedies available at law or equity.
+
+7. GOVERNING LAW AND DISPUTE RESOLUTION
+This Agreement shall be governed by, and construed in accordance with, the laws of the State of Delaware, USA, without giving effect to conflict of laws principles. Any legal suit, action, or proceeding arising out of this Agreement shall be instituted exclusively in the competent courts located in State of Delaware, USA.
+
+8. MISCELLANEOUS
+- Entire Agreement: This document constitutes the entire agreement between the Parties regarding confidentiality and supersedes all prior understandings.
+- Severability: If any provision is found invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+- Amendments: No amendment or waiver shall be binding unless executed in writing by both Parties.
+
+---
+
+IN WITNESS WHEREOF, the Parties have executed this Non-Disclosure Agreement as of the Effective Date.
+
+| For: NovaTech Labs | For: John Doe |
+| :--- | :--- |
+| Signature: ___________________________ | Signature: ___________________________ |
+| Name: [Authorized Officer Name] | Name: [Authorized Officer Name] |
+| Title: [Title / Position] | Title: [Title / Position] |
+| Date: October 15, 2026 | Date: October 15, 2026 |
